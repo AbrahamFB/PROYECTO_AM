@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyectoFinaal</string>
+    <string name="user">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="usuario">User</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrar">O Registrar</string>
+    <string name="Recurar_contraseña">¿Olvidaste tu contraseña? Click Aqui</string>
+    <string name="ListaServ"># Tecnologia de Punta. # Resultados Eficientes. # Constante Innovacion. # Excelente Atencion. # Profesionistas Certificados</string>
+    <string name="Index_Text">Es de vital importancia tener una excelente salud bucal para una mejor apariencia, nosotros contamos con servicios de alta calidad</string>
+</resources>
